@@ -43,5 +43,51 @@ endgenerate
 
 <font size = 5 face = "kaiti">波形如下:</font>
 
-![](I:\Work\svn_path\trunk\image\数组复位只读波形.PNG)
+![](I:\Work\svn_path\trunk\image\1-数组复位只读波形.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
