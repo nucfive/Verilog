@@ -47,13 +47,9 @@ endgenerate
 
 
 
+<font size = 5 face = "kaiti">摩尔机和米勒机框图</font>
 
-
-
-
-
-
-
+![](I:\Work\svn_path\verilog\image\摩尔机和米勒机原理框图.PNG)
 
 
 
