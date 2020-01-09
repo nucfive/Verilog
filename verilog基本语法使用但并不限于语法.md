@@ -152,9 +152,11 @@ endmodule
 
 <img src="I:\Work\svn_path\verilog\image\摩尔机和米勒机仿真图像.PNG" style="zoom:150%;" />
 
+<font size = 5 face = "kaiti">用二维数组构建memory:</font>
 
+<font size = 5 face = "kaiti">波形如下:</font>
 
-
+<img src="I:\Work\svn_path\verilog\image\3_ram.PNG" style="zoom: 200%;" />
 
 
 
